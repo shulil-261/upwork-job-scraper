@@ -1,0 +1,15 @@
+{
+  "queries": ["python scraping", "react developer"],
+  "pages": 1,
+  "per_page": 10,
+  "cookies": "",
+  "use_proxies": false,
+  "proxy_source": "data/proxies.txt",
+  "filters": {
+    "experience": ["entry", "intermediate"],
+    "payment_type": ["hourly", "fixed"],
+    "hours_per_week": "less_than_30",
+    "budget_min": 0,
+    "budget_max": 100
+  }
+}
