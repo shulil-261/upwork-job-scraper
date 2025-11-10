@@ -1,0 +1,4 @@
+# One proxy per line. Supported formats:
+# http://user:pass@host:port
+# http://host:port
+# socks5://user:pass@host:port
