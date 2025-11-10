@@ -1,0 +1,30 @@
+[
+  {
+    "Date Scraped": "2025-01-18T10:16:41.649Z",
+    "Job ID": "7769492930342982627",
+    "Time Posted": "2025-01-17T10:12:21.649Z",
+    "Project Payment Type": "Hourly",
+    "Budget": "$7.00 - $25.00",
+    "Skill Level": "Intermediate",
+    "Title": "Web Scraping Specialist for Real Estate Data",
+    "URL": "https://www.upwork.com/jobs/url",
+    "Description": "Lorem ipsum",
+    "Location": "United States",
+    "Total Spent": "$4,588.28",
+    "Feedback": 4.99,
+    "Proposals": 8,
+    "Project Length": "Less than 1 month",
+    "Weekly Hours": "Less than 30 hrs/week",
+    "Skills": [
+      "Python",
+      "Statistical Analysis",
+      "Microsoft Excel",
+      "Machine Learning",
+      "CI/CD",
+      "Data Engineering",
+      "Deep Learning"
+    ],
+    "Query": "python scraping",
+    "Source": "Upwork Jobs Search"
+  }
+]
